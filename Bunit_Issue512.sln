@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bunit_Issue512", "Bunit_Issue512\Bunit_Issue512.csproj", "{DC4F1F5A-9004-496A-8F0D-34CCB4382B62}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bunit_Issue512Tests", "Bunit_Issue512Tests\Bunit_Issue512Tests.csproj", "{F094C087-3DE3-4B09-A1DA-CFD1E6F99C07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC4F1F5A-9004-496A-8F0D-34CCB4382B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC4F1F5A-9004-496A-8F0D-34CCB4382B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC4F1F5A-9004-496A-8F0D-34CCB4382B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC4F1F5A-9004-496A-8F0D-34CCB4382B62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F094C087-3DE3-4B09-A1DA-CFD1E6F99C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F094C087-3DE3-4B09-A1DA-CFD1E6F99C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F094C087-3DE3-4B09-A1DA-CFD1E6F99C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F094C087-3DE3-4B09-A1DA-CFD1E6F99C07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {355D2700-0796-4BFF-B47E-3FBF3A29067E}
+	EndGlobalSection
+EndGlobal

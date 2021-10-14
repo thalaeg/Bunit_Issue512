@@ -1,0 +1,8 @@
+﻿<CascadingValue Value=this>
+	<div>
+		@ChildContent
+	</div>
+</CascadingValue>
+@code {	
+	[Parameter] public RenderFragment? ChildContent { get; set; }
+}
